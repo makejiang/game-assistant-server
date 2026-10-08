@@ -1,0 +1,18 @@
+{
+  "author": "Intel",
+  "description": "每当用户要基于此服务器开发 app、调用它的接口，或询问\"它能做什么 / 有什么能力 / 能做出什么 app\"时使用；服务没有运行时，本 skill 会先自动部署拉起服务。对任何 AI 助手（agent）都适用，不限于某一个产品。",
+  "detail_describe": "本地部署游戏助手AI服务，全程离线运行\n内置9项AI能力（视觉识别、OCR读字、知识库问答、语音转文字、大模型聊天、记忆库、Boss动作识别、图文检索、OpenAI兼容接口）\n内置完整接口文档与避坑规则 \n面向零基础用户，任意AI助手均可按守则调用",
+  "display_description": "调用本地SDK视觉、问答、语音等9项能力，Vibe Coding辅助开发应用(仅限英特尔AIPC平台)",
+  "display_name": "游戏助手AI编程",
+  "name": "game-assistant-server",
+  "scope": [
+    "main"
+  ],
+  "type": "英特尔用户专区",
+  "use_cases": [
+    "你能做什么？",
+    "帮我做一个截屏提字工具",
+    "帮我做一款说话就能查攻略的语音助手"
+  ],
+  "version": "1.0.0"
+}
